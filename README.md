@@ -2,4 +2,4 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-Live site: https://ucarlos-nft-component.netlify.app/
+Live site: https://qr-code-component-ucarlos.netlify.app/
